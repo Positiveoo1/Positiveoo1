@@ -9,7 +9,7 @@ Coding is fun!!
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [My Project](http://abudev.io)
 * ✉️  You can contact me at [vistulaabubakrsiddik@gmail.com](mailto:vistulaabubakrsiddik@gmail.com)
-* 🚀  I'm currently working on [Ongoing project](https://calendario002.netlify.app)
+* 🚀  I'm currently working on [Ongoing project](https://bouncing-v2-02.netlify.app)
 * 🧠  I'm learning Angular 16, Nodejs
 * 🤝  I'm open to collaborating on "Seeking collaborative opportunities to enhance frontend skills."
 
