@@ -7,7 +7,7 @@ Junior Web Developer
 Coding is fun!!
 
 * 🌍  I'm based in Poland
-* 🖥️  See my portfolio at [My Project](http://abudev.io)
+* 🖥️  See my portfolio at [My Project](https://abubakrsiddiq.netlify.app/home)
 * ✉️  You can contact me at [vistulaabubakrsiddik@gmail.com](mailto:vistulaabubakrsiddik@gmail.com)
 * 🚀  I'm currently working on [Ongoing project](https://quran-v1.netlify.app)
 * 🧠  I'm learning Tailwind, ThreeJs
