@@ -9,7 +9,7 @@ Coding is fun!!
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [My Project](https://abubakrsiddiq.netlify.app/)
 * ✉️  You can contact me at [vistulaabubakrsiddik@gmail.com](mailto:vistulaabubakrsiddik@gmail.com)
-* 🚀  I'm currently working on [Ongoing project](https://quran-v1.netlify.app)
+* 🚀  I'm currently living in Warsaw
 * 🧠  I'm learning Tailwind, ThreeJs
 * 🤝  I'm open to collaborating on "Seeking collaborative opportunities to enhance frontend skills."
 
