@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Coding is fun!!
 
 * 🌍  I'm based in Poland
-* 🖥️  See my portfolio at [My Project](https://abubakrsiddiq.netlify.app/)
+* 🖥️  See my portfolio at [My Project](https://abu-dev.tech)
 * ✉️  You can contact me at [vistulaabubakrsiddik@gmail.com](mailto:vistulaabubakrsiddik@gmail.com)
 * 🚀  I'm currently living in Warsaw
 * 🧠  I'm learning Tailwind, ThreeJs
