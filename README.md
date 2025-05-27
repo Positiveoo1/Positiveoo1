@@ -11,7 +11,7 @@ Coding is fun!!
 * 🖥️  See my portfolio at [My Project](https://abu-dev.tech)
 * ✉️  You can contact me at [vistulaabubakrsiddik@gmail.com](mailto:vistulaabubakrsiddik@gmail.com)
 * 🚀  I'm currently living in Warsaw
-* 🧠  I'm learning Tailwind, ThreeJs
+* 🧠  I'm learning SwiftUI & Swift
 * 🤝  I'm open to collaborating on "Seeking collaborative opportunities to enhance frontend skills."
 
 <a href="https://www.github.com/positiveoo1" target="_blank" rel="noreferrer"><img
